@@ -1,1 +1,8 @@
 gunicorn==20.1.0
+Flask
+pymongo
+dash
+dash-daq
+plotly
+requests
+pandas
